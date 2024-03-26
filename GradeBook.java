@@ -8,9 +8,11 @@ public class GradeBook{
 
 	
 	
-//	private static ArrayList<Double> Collections;
+
 
 	public static void main(String[] args) {
+
+		//System.out.println("You are wasting your time by doing msg");
 		
 		// Create Variables
 		int option = 0;
